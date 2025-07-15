@@ -5,8 +5,8 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # === CONFIG ===
-controller_url = "https://10.0.0.1"  # Replace with your controller IP or hostname
-api_token = "K3htnYFPWNt-J6r0Wb1iMpK5P_gK1XVI"  # Replace with your actual API key
+controller_url = "https://CHANGE.ME"  # Replace with your controller IP or hostname
+api_token = "XXXXXXXXXXXX"  # Replace with your actual API key
 output_file = "unifi_clients.csv"
 
 # === SETUP SESSION ===
